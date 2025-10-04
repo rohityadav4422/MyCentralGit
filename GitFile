@@ -1,1 +1,8 @@
 My File !!
+
+public static void main (args)
+{
+
+int a= 5;
+system.println (a);
+}
